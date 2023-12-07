@@ -12,11 +12,13 @@ Enhance your keyboard and mouse interactions with custom sounds for each key or 
 2. **Run the Script:**
    - Execute the script using either PyCharm or the command prompt.
      - Example command: `cd /path/to/your/.py/file` followed by `python Keysounds.py`.
+     - May need to install packages:
+          -from pynput import mouse
+          -import pygame
+          -import os
+          -import keyboard
 
-3. **Executable (.exe) Option:**
-   - If you prefer, you can download the script as an executable (.exe) file. It doesn't require additional package installations, but it might be flagged by Windows Defender.
-
-4. **Customize Key Sounds:**
+3. **Customize Key Sounds:**
    - For personalized key sounds, obtain an audio file (e.g., .mp3).
    - Rename the file to "keysound" and place it in the same directory as the .py file.
 
