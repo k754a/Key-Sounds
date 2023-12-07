@@ -14,7 +14,7 @@ Enhance your keyboard and mouse interactions with custom sounds for each key or 
      - Example command: `cd /path/to/your/.py/file` followed by `python Keysounds.py`.
 
 3. **Executable (.exe) Option:**
-   - If you prefer, you can download the script as an executable (.exe) file. It doesn't require additional package installations, but be cautious as it might be flagged by Windows Defender.
+   - If you prefer, you can download the script as an executable (.exe) file. It doesn't require additional package installations, but it might be flagged by Windows Defender.
 
 4. **Customize Key Sounds:**
    - For personalized key sounds, obtain an audio file (e.g., .mp3).
