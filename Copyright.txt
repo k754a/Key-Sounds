@@ -1,0 +1,33 @@
+Copyright Notice for Key-Sounds
+
+© @k754a 2023
+
+All rights reserved.
+
+Introduction:
+This document serves as the copyright notice for Key-Sounds (hereinafter referred to as "the Program"). By using, modifying, or distributing the Program, you agree to comply with the terms of this copyright notice.
+
+License Grant:
+Subject to the terms and conditions of this notice, @k754a hereby grants permission for any person or entity (hereinafter referred to as "User") to use, modify, and distribute the Program, provided that the following conditions are met:
+
+The User acknowledges and agrees that @k754a is the sole owner of the intellectual property rights in the Program.
+
+Any use or distribution of the Program must include this copyright notice, the above-mentioned license grant, and the disclaimer of warranty.
+
+The User may not use @k754a's username, likeness, or other identifiers without prior written permission for any purpose related to the Program.
+
+Disclaimer of Warranty:
+The Program is provided "as is," without warranty of any kind, express or implied. @k754a makes no representations or warranties regarding the accuracy, reliability, or completeness of the Program. @k754a disclaims all liability for any damages, direct or indirect, arising out of the use or performance of the Program.
+
+Attribution:
+While Users are not required to provide credit when using the Program, @k754a appreciates any attribution given voluntarily. Attribution can be provided by including a reference to @k754a and the Program in the documentation or credits of the User's project.
+
+Termination:
+This license is effective until terminated by @k754a. @k754a may terminate this license at any time if the User fails to comply with the terms and conditions of this notice. Upon termination, the User must cease all use, distribution, and possession of the Program.
+
+Miscellaneous:
+This copyright notice constitutes the entire agreement between @k754a and the User regarding the Program and supersedes all prior agreements and understandings. This notice shall be governed by and construed in accordance with the laws of Canada.
+
+For any questions or inquiries regarding this copyright notice, please contact @k754a on GitHub.
+
+© @k754a 2023. All rights reserved.
