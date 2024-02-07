@@ -24,4 +24,3 @@ Enhance your keyboard and mouse interactions with custom sounds for each key or 
    - For personalized key sounds, obtain an audio file (e.g., .mp3).
    - Rename the file to "keysound" and place it in the same directory as the .py file.
 
-Now, your keystrokes and mouse clicks can have a unique audio touch. Feel free to explore and enjoy the enhanced auditory experience.
