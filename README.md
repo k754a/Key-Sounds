@@ -18,7 +18,7 @@ Enhance your keyboard and mouse interactions with custom sounds for each key or 
           -import os
           -import keyboard
 
-   -You can use the compiled one, but you will still need a mp3 in the same directory, also windows defender might flag it.
+   
 
 3. **Customize Key Sounds:**
    - For personalized key sounds, obtain an audio file (e.g., .mp3).
